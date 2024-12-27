@@ -1,0 +1,23 @@
+{
+  "name": "tech-notes",
+  "version": "1.0.0",
+  "description": "it非鱼的技术笔记",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "keywords": [
+    "tech",
+    "notes",
+    "documentation",
+    "tutorial"
+  ],
+  "author": "it非鱼",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.0-rc.31",
+    "vue": "^3.3.13"
+  }
+}
